@@ -1,0 +1,16 @@
+POST – Create
+GET – Read/Retrieve
+PUT/PATCH – Update
+DELETE – Delete
+
+PUT=  is a method of modifying resource where the client sends data that updates the entire resource.
+    like we have that data {“first": "John", "last": "Stone”}  and if we want to update first then it will update all first and last too.
+
+PATCH=  is used when you want to apply a partial update to the resource.
+	 like we have that data {“first": "John", "last": "Stone”}  and if we want to update first then it will update only first and not last.
+
+
+
+
+
+
